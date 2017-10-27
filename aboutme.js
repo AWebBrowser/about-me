@@ -169,14 +169,11 @@ console.log(pizzaToppings[3])
 
 //Extra Challenge #2//
 
-var person = {
-    firstName:"John",
-    lastName:"Doe",
-    age:50,
-    eyeColor:"blue"
-};
-console.log("objects test vvv");
-console.log(person.firstName);
-console.log(person.lastName)
-console.log(person.age);
-console.log(person.eyeColor)
+var carName = {
+	carModel = "Toyota Land Cruiser";
+	carYear = 1999;
+	carColor = "Orange";
+}
+console.log(carName.carModel);
+console.log(carName.carYear);
+console.log(carName.carColor);
