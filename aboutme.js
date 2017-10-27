@@ -169,12 +169,14 @@ console.log(pizzaToppings[3])
 
 //Extra Challenge #2//
 
-var carName = {
+var dreamCar = {
+	carName : "Vroom Vroom",
 	carModel : "Toyota Land Cruiser",
 	carYear : 1999,
 	carColor : "Orange"
 };
 
-console.log(carName.carModel);
-console.log(carName.carYear);
-console.log(carName.carColor);
+console.log(dreamCar.carName);
+console.log(dreamCar.carModel);
+console.log(dreamCar.carYear);
+console.log(dreamCar.carColor);
