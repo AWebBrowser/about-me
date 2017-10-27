@@ -170,10 +170,11 @@ console.log(pizzaToppings[3])
 //Extra Challenge #2//
 
 var carName = {
-	carModel = "Toyota Land Cruiser";
-	carYear = 1999;
-	carColor = "Orange";
-}
+	carModel : "Toyota Land Cruiser",
+	carYear : 1999,
+	carColor : "Orange"
+};
+
 console.log(carName.carModel);
 console.log(carName.carYear);
 console.log(carName.carColor);
